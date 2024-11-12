@@ -1,6 +1,6 @@
 # Mental Health Prediction
 
-This project aims to predict the likelihood of depression based on various individual factors such as age, profession, lifestyle, and mental health history. The model is trained on a dataset from the Kaggle Playground Series Season 4, Episode 11 competition ([link][(https://www.kaggle.com/competitions/playground-series-s4e11/overview)]). 
+This project aims to predict the likelihood of depression based on various individual factors such as age, profession, lifestyle, and mental health history. The model is trained on a dataset from the Kaggle Playground Series Season 4, Episode 11 competition ([(https://www.kaggle.com/competitions/playground-series-s4e11/overview)]). 
 
 **Approach:**
 
